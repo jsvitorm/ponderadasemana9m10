@@ -32,7 +32,7 @@ Antes de começar, certifique-se de ter:
 ---
 
 ### 2. Estrutura do Código
-O código principal está no arquivo `src/main.tf`. A configuração define um provedor AWS e cria uma instância EC2. Aqui está o conteúdo do arquivo:
+O código principal está no arquivo `src/main.tf`. A configuração define um provedor AWS e cria uma instância EC2.
 
 ```hcl
 terraform {
